@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://www.guillermogascon.com",
-    "contentApiKey": "93c9706b92fc62cd6dd4c413f6"
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "c0dc3497432a9b77c2edffc1cb"
   },
   "production": {
     "apiUrl": "https://www.guillermogascon.com",
-    "contentApiKey": "93c9706b92fc62cd6dd4c413f6"
+    "contentApiKey": "c0dc3497432a9b77c2edffc1cb"
   }
 }
